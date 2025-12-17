@@ -1,4 +1,4 @@
-# Vaja5_use-of-buttons-and-LEDs
+# m Vaja5-buttons-LED-STM32F0
 2.b) Glede na vašo razvojno ploščico in razširitveno vezje s tipkami, izberite ustrezne digitalne vhode za tipke 
 in izhode za modro in zeleno LED. Zapišite izbrane pine:
 
